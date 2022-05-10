@@ -1,10 +1,10 @@
 
 
 
-- 👋 I’m Ali
-- 🎸 I'm a musician
-- 👀 I’m currently learning web development
+### 👋 I’m Ali
+- 🎸 I'm a musician and I play multiple instruments
 - 🐕 I’m currently learning web development with languages Javascript, and PHP
+- ⚽ My goal is to become a proffessional Full Stack web developer.
 - 📨 Reach me on ali.shehab.ut@gmail.com
 
 
